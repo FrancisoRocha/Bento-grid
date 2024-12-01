@@ -1,0 +1,25 @@
+:root{
+    /* COLORES */
+    --blanco: #ffffff;
+    --negro: #121212;
+    --purple100: #DBD1FC;
+    --purple500: #7551DC;
+    --yellow100: #F9EEE2;
+    --yellow500: #FFCC6A;
+
+    --spacing100: 8px;
+    --spacing200: 16px;
+    --spacing300: 24px;
+    --spacing400: 32px;
+    --spacing500: 40px;
+}
+
+@font-face {
+    font-family: 'DMsans-medium';
+    src: url(../assets/fonts/static/DMSans-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'DMsans-regular';
+    src: url(../assets/fonts/static/DMSans-Regular.ttf);
+}
